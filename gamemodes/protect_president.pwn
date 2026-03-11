@@ -1,3 +1,5 @@
+new PresidentMarker;
+
 #include <a_samp>
 
 #define TEAM_NONE 0
